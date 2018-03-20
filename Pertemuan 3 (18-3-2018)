@@ -4,21 +4,21 @@ Hal-hal yang dilakukan hari ini:
 3. Simulasi pengerjaan CTF dengan materi Forensics dan Cryptography.
 
 Cara mendapatkan Flag yang berhasil saya dapatkan dari soal-soal simulasi CTF
-Soal Welcome
+- Soal Welcome
     Flag tertera di soal.
 
-Forensics:
-1. 
-    Buka link yang tertera pada soal dan cari format flag diantara tulisan-tulisan di sana (Ctrl+F sangat membantu).
-2. 
-    Buka link yang tertera pada soal dan amati.
-    Di baris awal bagian pojok kiri tertera tulisan yang menurut saya merupakan hint dari extension sesungguhnya file tersebut.
-    Save halaman tersebut dengan extension sesuai yang tertera di bagian pojok kiri atas tersebut.
-    Voila, there's the flag, mate!
-3.
-    Untuk soal yang ini, saya tidak menggunakan prosedur yang seharusnya.
-    Yang menurut seorang teman yang berhasil menemukan jawabannya adalah dengan cara melakukan pencarian gambar di google dari gambar-gambar yang di upload di FB tersebut.
-    Setelah itu masukkan nama negara dari orang pertama yang mengepost foto tersebut.
-    Di soal ini saya menggunakan cara brute force. Saya mencoba satu persatu kemungkinan nama negara asalnya.
-    Saya mempersempit pilihannya dengan mencoba nama-nama negara di asia.
-    Lalu pada saat saya memasukkan negara *peep*, flag accepted! Uyey
+-Forensics:
+    1. 
+        Buka link yang tertera pada soal dan cari format flag diantara tulisan-tulisan di sana (Ctrl+F sangat membantu).
+    2. 
+        Buka link yang tertera pada soal dan amati.
+        Di baris awal bagian pojok kiri tertera tulisan yang menurut saya merupakan hint dari extension sesungguhnya file tersebut.
+        Save halaman tersebut dengan extension sesuai yang tertera di bagian pojok kiri atas tersebut.
+        Voila, there's the flag, mate!
+    3.
+        Untuk soal yang ini, saya tidak menggunakan prosedur yang seharusnya.
+        Yang menurut seorang teman yang berhasil menemukan jawabannya adalah dengan cara melakukan pencarian gambar di google dari gambar-gambar yang di upload di FB tersebut.
+        Setelah itu masukkan nama negara dari orang pertama yang mengepost foto tersebut.
+        Di soal ini saya menggunakan cara brute force. Saya mencoba satu persatu kemungkinan nama negara asalnya.
+        Saya mempersempit pilihannya dengan mencoba nama-nama negara di asia.
+        Lalu pada saat saya memasukkan negara *peep*, flag accepted! Uyey
