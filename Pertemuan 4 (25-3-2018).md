@@ -1,4 +1,3 @@
-
 Hal-hal yang dilakukan hari ini:
 1. Penjelasan mengenai Networking.
 2. Meng-install beberapa app yang berhubungan dengan Networking.
