@@ -1,2 +1,2 @@
 # LBE-AJK
-Journal for Computer Netword Architecture Lab Based Education
+Journal for Computer Network Architecture Lab Based Education
